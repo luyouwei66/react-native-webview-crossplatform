@@ -17,6 +17,7 @@ import {
   ActivityIndicator,
   StyleSheet,
   UIManager,
+  Linking,
   View,
   Image,
   requireNativeComponent
